@@ -1,0 +1,3 @@
+window.cell = new Cell();
+
+

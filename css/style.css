@@ -1,0 +1,44 @@
+
+body, html {
+    width: 100%;
+
+    margin: 0px;
+
+    padding: 0px;
+}
+
+.mensages {
+    width: 80%;
+    max-height: 50%;
+    background-color: #666;
+    
+}
+
+.mensage {
+    width: 50%;
+    height: 10%;
+    border-radius: 5%;
+    
+    color: #fff;
+}
+
+.conteiner {
+    padding: 5%;
+}
+
+p {
+    color: white;
+}
+
+button {
+    background-color: black;
+    width: 10%;
+    height: 5%;
+    border: none;
+    color: #ddd;
+}
+
+.container {
+    padding: 5%;
+}
+
